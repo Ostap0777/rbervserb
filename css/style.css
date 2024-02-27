@@ -1,0 +1,58 @@
+.product__tovar {
+	text-align: center;
+}
+.articli__1 {
+
+	text-align: center;
+}
+.product__opus {
+}
+.product__price {
+}
+.btn__1 {
+}
+
+#product {
+	
+	gap: 100px;
+	display: flex;
+	justify-content: center;
+}
+
+
+.title__koshuk {
+	text-align: center;
+}
+.cart {
+	text-align: center;
+}
+
+
+.cart-item {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 3px solid black;
+	margin-bottom: 10px;
+ }
+ 
+ .cart-item img {
+	max-width: 50px;
+	max-height: 50px;
+	margin-right: 10px;
+ }
+ 
+ .cart-item span {
+	font-size: 16px;
+ }
+ 
+ /* Стилі для загальної вартості в корзині */
+ #total-price {
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 10px;
+ }
+
+ .btn__x {
+
+ }
